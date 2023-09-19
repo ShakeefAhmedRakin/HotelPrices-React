@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Standard Room",
+      "description": "A comfortable standard room with basic amenities.",
+      "price_per_night": 100,
+      "features": ["Queen-size bed", "Private bathroom", "TV", "Free Wi-Fi"],
+      "image" : "https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 2,
+      "name": "Deluxe Suite",
+      "description": "A spacious suite with luxury amenities and a great view.",
+      "price_per_night": 250,
+      "features": ["King-size bed", "Private balcony", "Jacuzzi", "Mini-bar","Spa"],
+      "image" : "https://images.pexels.com/photos/1579253/pexels-photo-1579253.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 3,
+      "name": "Family Room",
+      "description": "A family-friendly room with extra beds and entertainment.",
+      "price_per_night": 175,
+      "features": ["Two queen-size beds", "Bunk beds", "Game console", "Breakfast included"],
+      "image": "https://images.pexels.com/photos/210265/pexels-photo-210265.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ]
+  
